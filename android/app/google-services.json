@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591107479673",
+    "project_id": "smart-recruit-58b33",
+    "storage_bucket": "smart-recruit-58b33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591107479673:android:e415701f927185099f9ca8",
+        "android_client_info": {
+          "package_name": "com.example.smart_recruit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXbDSe4wk-xxReFieYmfcuqHZ911wXx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

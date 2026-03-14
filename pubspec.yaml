@@ -1,0 +1,44 @@
+name: smart_recruit
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  file_picker: ^6.1.6
+  shared_preferences: ^2.2.2
+  intl: ^0.18.1
+  # Firebase
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+  firebase_storage: ^11.6.8
+
+  
+
+  # UI & Utils
+  fl_chart: ^0.66.2
+  cupertino_icons: ^1.0.8
+  country_picker: ^2.0.21
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/amazon.jpg
+    - assets/icons/analytics.jpg
+    - assets/icons/mobile.jpg
+    - assets/icons/shopify.jpg
+    - assets/icons/ui.jpg
